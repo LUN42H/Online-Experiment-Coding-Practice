@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.button {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+    width: 90px;
+    height: 35px
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: 38;
+}
